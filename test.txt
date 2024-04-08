@@ -1,0 +1,4 @@
+
+Git branching is like having separate workspaces within your project. Instead of changing the main part of your project directly, you can create branches like creating copies to experiment on specific tasks. Each project starts with a default branch main or master.
+
+Once you're done working on your branch and everything looks good, you can merge your changes back into the main part of the project. This merging process is called a "pull request
